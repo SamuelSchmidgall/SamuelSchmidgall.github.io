@@ -1,1 +1,0 @@
-# SamuelSchmidgall.github.io
