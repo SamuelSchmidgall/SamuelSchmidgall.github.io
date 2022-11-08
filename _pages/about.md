@@ -10,5 +10,6 @@
 
 I am Samuel Schmidgall, a PhD in Electrical and Computer 
 Engineering (Robotic&Controls) @ George Mason University & a Scientist @ 
-the US Naval Research Laboratory focusing on Robotic Learning. 
+the Space Robotics Dept. of the Naval Research Laboratory focusing on 
+Robotic Learning for quadrupedal systems. 
 
