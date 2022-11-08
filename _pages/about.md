@@ -16,4 +16,4 @@ Robotic Learning for quadrupedal systems.
 
 
 
-For additional information see my [CV](/_data/SamuelSchmidgallCV.pdf).
+For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SamuelSchmidgallCV.pdf).
