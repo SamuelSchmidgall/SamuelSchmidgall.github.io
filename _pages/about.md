@@ -1,15 +1,19 @@
-#---
-#permalink: /
-#title: "Hello!"
-#excerpt: "About me"
-#author_profile: true
-#redirect_from: 
-#  - /about/
-#  - /about.html
-#---
+---
+permalink: /
+title: "Samuel Schmidgall CV"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am Samuel Schmidgall, a PhD in Electrical and Computer 
-Engineering (Robotic&Controls) @ George Mason University & a Scientist @ 
-the Space Robotics Dept. of the Naval Research Laboratory focusing on 
+Engineering (Robotic&Controls) @ George Mason University & a 
+Computer Scientist @ 
+the Space Robotics Department in the Naval Research Laboratory focusing on 
 Robotic Learning for quadrupedal systems. 
 
+
+
+For additional information see my [CV](/_data/SamuelSchmidgallCV.pdf).
