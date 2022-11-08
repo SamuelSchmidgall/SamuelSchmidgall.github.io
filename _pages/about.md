@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Samuel Schmidgall CV"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Samuel Schmidgall, a PhD in Electrical and Computer 
-Engineering (Robotic&Controls) @ George Mason University & a 
+Engineering (conc. Robotic & Controls) @ George Mason University & a 
 Computer Scientist @ 
 the Space Robotics Department in the Naval Research Laboratory focusing on 
 Robotic Learning for quadrupedal systems. 
