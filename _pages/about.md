@@ -20,7 +20,7 @@ on meta- and online-learning for embodied systems (e.g. robotic systems).
 For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SamuelSchmidgallCV.pdf).
 
 
-<p align="center"><img src="images/robots.png" width="95%" height="95%"></p>
+<p align="center"><img src="../images/robots.png" width="95%" height="95%"></p>
 
 
 ## Publications
