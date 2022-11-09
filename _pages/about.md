@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Samuel Schmidgall, a Robotics Scientist @ Space Robotics 
+I am Samuel Schmidgall, a **Robotics Scientist @ Space Robotics 
 Deptartment at 
-the US Naval Resesarch Laboratory focusing on Robotic Learning for 
-Quadrupedal Locomotion and PhD in Electrical and Computer 
-Engineering (conc. Robotic & Controls) @ George Mason University focusing 
-on meta- and online-learning for embodied systems (e.g. robotic systems). 
+the US Naval Resesarch Laboratory** focusing on **Robotic Learning for 
+Quadrupedal Locomotion** and **PhD in Electrical and Computer 
+Engineering (conc. Robotic & Controls) @ George Mason University** focusing 
+on **meta- and online-learning for embodied systems (e.g. robotic systems)**. 
 
 
 
