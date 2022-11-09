@@ -15,9 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: 
-https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/files/SchmidgallCV.pdf
+  - title: "CV"
+    url: https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/files/SchmidgallCV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
