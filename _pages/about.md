@@ -19,7 +19,7 @@ I am a **Robotics Scientist** @ [Space Robotics Deptartment, US Naval Resesarch 
 For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SamuelSchmidgallCV.pdf).
 
 
-<p align="center"><img src="../images/ghost_walking_gif.gif" width="95%" height="95%"></p>
+<p align="center"><img src="../images/quad_banner.gif" width="95%" height="95%"></p>
 
 
 ## Publications
