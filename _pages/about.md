@@ -15,10 +15,10 @@ Hi, I'm Samuel Schmidgall.
 
 I am a **Robotics Scientist** @ [Space Robotics Deptartment, US Naval Resesarch Laboratory](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Spacecraft-Engineering/) advised by Joe Hays. Currently my research focuses on **robotic learning** for legged and manipulation robotic systems and neuromorphic computing. I recieved my B.S. in Computer Science at George Mason University. During my undergraduate I worked on a variety of projects in mathematics, robotics, computational neuroscience, and artificial intelligence. These topics include: [multi-agent motion planning](https://ieeexplore.ieee.org/abstract/document/9658995), [wave propagation dynamics](https://link.springer.com/article/10.1007/s00285-022-01802-7), [meta-](https://www.frontiersin.org/articles/10.3389/fnbot.2021.629210/full), and [continual learning via synaptic plasticity](https://www.biorxiv.org/content/biorxiv/early/2022/06/28/2022.06.24.497562.full.pdf). I am currently working toward developing low-power solutions for legged and manipulation robotic systems using deep learning.
 
+For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
 
 <p align="center"><img src="../images/quadruped_banner.gif" width="99%" height="99%"></p>
 
-For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
 
 
 
