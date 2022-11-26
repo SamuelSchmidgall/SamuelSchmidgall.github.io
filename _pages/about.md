@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center"><img src="../images/quadruped_banner.gif" width="99%" height="99%"></p>
 
 <!--p align="center"><img src="../images/robots.png" width="95%" height="95%"></p-->
 
@@ -17,6 +16,7 @@ Hi, I'm Samuel Schmidgall.
 I am a **Robotics Scientist** @ [Space Robotics Deptartment, US Naval Resesarch Laboratory](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Spacecraft-Engineering/) focusing on **Robotic Learning** for Quadrupedal Locomotion. I am also a **PhD in Electrical and Computer Engineering (conc. Robotic & Controls)** @ [George Mason University](https://ece.gmu.edu/) focusing on **meta- and online-learning for embodied systems (e.g. robotic systems)**. 
 
 
+<p align="center"><img src="../images/quadruped_banner.gif" width="99%" height="99%"></p>
 
 For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
 
