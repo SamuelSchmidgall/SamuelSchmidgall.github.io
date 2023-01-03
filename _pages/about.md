@@ -50,8 +50,7 @@ synaptic plasticity in spiking neural networks. Neuro-Inspired
 Computational Elements (NICE). (Under Review).
 
 - **Schmidgall, S.**, Parsa, M., (2022). Biological connectomes 
-as a representation for the architecture of artificial neural networks. 
-International Conference on Learning Representations (ICLR). (Under Review).
+as a representation for the architecture of artificial neural networks. Proceedings of the 2023 AAAI Conference on Artificial Intelligence "Systems Neuroscience Approach to General Intelligence" Workshop.
 
 - **Schmidgall, S.**, Hays, J., (2022). Stable Lifelong Learning: 
 Spiking neurons as a solution to instability in plastic neural networks. 
