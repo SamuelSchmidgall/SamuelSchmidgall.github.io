@@ -11,7 +11,7 @@ redirect_from:
 
 <!--p align="center"><img src="../images/robots.png" width="95%" height="95%"></p-->
 
-I am a graduate student @ Johns Hopkins University (MSE in Electrical and Computer Engineering) working on neuromorphic engineering. I am also a **Robotics Scientist** @ [Space Robotics Deptartment, US Naval Resesarch Laboratory](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Spacecraft-Engineering/). Currently my research focuses on **robotic learning** for legged and manipulation robotic systems and neuromorphic computing. I recieved my B.S. in Computer Science at George Mason University. During my undergraduate I worked on a variety of projects in mathematics, robotics, computational neuroscience, and artificial intelligence. These topics include: [multi-agent motion planning](https://ieeexplore.ieee.org/abstract/document/9658995), [wave propagation dynamics](https://link.springer.com/article/10.1007/s00285-022-01802-7), [meta-](https://www.frontiersin.org/articles/10.3389/fnbot.2021.629210/full), and [continual learning via synaptic plasticity](https://www.biorxiv.org/content/biorxiv/early/2022/06/28/2022.06.24.497562.full.pdf). I am currently working toward developing low-SWaP solutions for legged and manipulation robotic systems using deep reinforcement learning.
+I am a PhD student @ Johns Hopkins University (Electrical and Computer Engineering) working on NeuroAI & neuromorphic engineering. I am also a **Robotics Scientist** @ [Space Robotics Deptartment, US Naval Resesarch Laboratory](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Spacecraft-Engineering/). Currently my research focuses on **robotic learning** for legged and manipulation robotic systems and neuromorphic computing. I recieved my B.S. in Computer Science at George Mason University. During my undergraduate I worked on a variety of projects in mathematics, robotics, computational neuroscience, and artificial intelligence. These topics include: [multi-agent motion planning](https://ieeexplore.ieee.org/abstract/document/9658995), [wave propagation dynamics](https://link.springer.com/article/10.1007/s00285-022-01802-7), [meta-](https://www.frontiersin.org/articles/10.3389/fnbot.2021.629210/full), and [continual learning via synaptic plasticity](https://www.biorxiv.org/content/biorxiv/early/2022/06/28/2022.06.24.497562.full.pdf). I am currently working toward developing low-SWaP solutions for legged and manipulation robotic systems using deep reinforcement learning.
 
 For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
 
@@ -26,10 +26,9 @@ For additional information see my [CV](https://github.com/SamuelSchmidgall/Samue
 
 ### Journal
 
-
 - **Schmidgall, S.**, Hays, J. (2022). Learning to Learn Online 
 with Neuromodulated Synaptic Plasticity in Spiking Neural Networks. 
-Neural Networks. (Under Review).
+Frontiers in Neuroscience.
 
 - Holzer, M., Richey, Z., Rush, W., **Schmidgall, S.**, (2022). 
 Locked fronts in a discrete time discrete space population model. Journal 
@@ -42,12 +41,9 @@ Frontiers in Neurorobotics
 
 ### Conference
 
-- **Schmidgall, S.**, Parsa, M., (2022). 
-lava-spikepropamine: A lava-based library for learning with 
-synaptic plasticity in spiking neural networks. Neuro-Inspired 
-Computational Elements (NICE). (Under Review).
+- **Schmidgall, S.**, Hays, J., (2023). SMA: A three-factor learning rule for synaptic motor adaptation in spiking neural networks. International Conference on Neuromorphic Systems (ICONS).
 
-- **Schmidgall, S.**, Parsa, M., (2022). Biological connectomes 
+- **Schmidgall, S.**, Parsa, M., Schuman, C. (2023). Biological connectomes 
 as a representation for the architecture of artificial neural networks. Proceedings of the 2023 AAAI Conference on Artificial Intelligence "Systems Neuroscience Approach to General Intelligence" Workshop.
 
 - **Schmidgall, S.**, Hays, J., (2022). Stable Lifelong Learning: 
