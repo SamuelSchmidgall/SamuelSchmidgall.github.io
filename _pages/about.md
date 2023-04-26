@@ -15,7 +15,7 @@ I am a PhD student @ Johns Hopkins University (Electrical and Computer Engineeri
 
 For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
 
-<p align="center"><img src="../images/smallquad.gif" width="99%" height="99%"></p>
+<p align="center"><img src="../images/quadruped_mov.gif" width="99%" height="99%"></p>
 
 
 
