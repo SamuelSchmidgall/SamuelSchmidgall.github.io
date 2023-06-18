@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-## Hello!
 
 <!--p align="center"><img src="../images/robots.png" width="95%" height="95%"></p-->
 
