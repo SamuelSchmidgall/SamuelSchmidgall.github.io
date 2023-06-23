@@ -86,13 +86,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: $times;
+    font-family: $roboto;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $times;
+    font-family: $roboto;
     font-size: $type-size-6;
   }
 
@@ -228,7 +228,7 @@
 .page__meta {
   margin-top: 2em;
   color: mix(#fff, $gray, 25%);
-  font-family: "Times New Roman", Times, serif;
+  font-family: $roboto;
   font-size: $type-size-6;
 
   p {
