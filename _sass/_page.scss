@@ -86,13 +86,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: "Times New Roman", Times, serif;
+    font-family: $times;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: "Times New Roman", Times, serif;
+    font-family: $times;
     font-size: $type-size-6;
   }
 
