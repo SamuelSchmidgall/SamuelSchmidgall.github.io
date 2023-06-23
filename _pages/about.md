@@ -19,7 +19,7 @@ I was previously a **Robotics Scientist** @ [Space Robotics Deptartment, US Nava
 
 For additional information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
 
-<p align="center"><img src="../images/quadruped_mov.gif" width="99%" height="70%"></p>
+<p align="center"><img src="../images/quadruped_mov.gif" width="59%" height="70%"></p>
 
 
 
