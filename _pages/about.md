@@ -14,14 +14,20 @@ redirect_from:
 
 I am an upcoming **1st year PhD student @ Johns Hopkins University** in Electrical and Computer Engineering. I am an [National Science Foundation GRFP fellow](https://www.nsfgrfp.org/) working in the [Artificial Intelligence for Engineering and Medicine Lab (AIEM)](https://aiem.jhu.edu/) with Dr. Rama Chellappa on medical image reconstruction. I am also working toward studying intelligence in brain organoids in the [Center for Alternatives in Animal Testing (CAAT)](https://caat.jhsph.edu/) at the Johns Hopkins University School of Public Health. During the Summer of 2023 (May - August) I am also a research affiliate at the University of California, Santa Cruz [Neuromorphic Computing Laboratory](https://ncg.ucsc.edu/) working on reinforcement learning for surgical robotics.
 
-<p align="center"><img src="../images/ecm_target_reach.gif" width="35%" height="50%"><img src="../images/psm_target_reach.gif" width="35%" height="50%"></p>
+<p align="center"><img src="../images/ecm_target_reach.gif" width="45%" height="50%"><img src="../images/psm_target_reach.gif" width="45%" height="50%"></p>
 
 Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics Deptartment at the [US Naval Resesarch Laboratory](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Spacecraft-Engineering/). My past research focused on machine learning approaches for **robotic learning** with legged and articulated robotic systems. I recieved my B.S. in Computer Science at George Mason University in 2021. During my time as an undergraduate I worked on a variety of projects in mathematics, robotics, computational neuroscience, and artificial intelligence. These topics include: [multi-agent motion planning](https://ieeexplore.ieee.org/abstract/document/9658995), [wave propagation dynamics](https://link.springer.com/article/10.1007/s00285-022-01802-7), [meta-](https://www.frontiersin.org/articles/10.3389/fnbot.2021.629210/full), and [continual learning via synaptic plasticity](https://www.biorxiv.org/content/biorxiv/early/2022/06/28/2022.06.24.497562.full.pdf). For more information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
 
 
-<p align="center"><img src="../images/quadruped_mov.gif" width="59%" height="70%"></p>
+<p align="center"><img src="../images/quadruped_mov.gif" width="69%" height="70%"></p>
 
 
+## Awards
+
+- **National Science Foundation Graduate Research Fellowship (NSF GRFP), ~$147,000 September 2023-May 2026** 
+- **2022 Alan Berman Research Publication Award for work "SpikePropamine: Differentiable Plasticity in Spiking Neural Networks"**
+- **Best Poster Award MEGL Symposium Poster Presentation Spring 2020**
+– **Outstanding Poster Award Joint Mathematics Meeting Conference Spring 2019**
 
 ## Publications
 
