@@ -12,7 +12,7 @@ redirect_from:
 
 <!--p align="center"><img src="../images/robots.png" width="95%" height="95%"></p-->
 
-I am a **1st year PhD student @ Johns Hopkins University** in Electrical and Computer Engineering. I am a [National Science Foundation GRFP fellow](https://www.nsfgrfp.org/) working in the [Artificial Intelligence for Engineering and Medicine Lab (AIEM)](https://aiem.jhu.edu/) with Dr. Rama Chellappa. I also work with Dr. Axel Krieger at the [IMMERSE Lab](https://imerse.lcsr.jhu.edu/) (Intelligent Medical Robotic Systems and Equipment Lab) toward building more autonomous surgical robotic systems via deep reinforcement learning.
+I am a **1st year PhD student @ Johns Hopkins University** in Electrical and Computer Engineering. I am a [National Science Foundation GRFP fellow](https://www.nsfgrfp.org/) working in the [Artificial Intelligence for Engineering and Medicine Lab (AIEM)](https://aiem.jhu.edu/) with Dr. Rama Chellappa. I also work with Dr. Axel Krieger at the [Intelligent Medical Robotic Systems and Equipment Lab (IMMERSE)](https://imerse.lcsr.jhu.edu/) toward building more autonomous surgical robotic systems via deep reinforcement learning.
 
 <p align="center"><img src="../images/StarRobots.gif" width="65%" height="65%"></p>
 
