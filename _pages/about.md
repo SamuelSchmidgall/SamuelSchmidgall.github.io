@@ -24,10 +24,10 @@ Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics D
 
 ## Awards
 
-- **National Science Foundation Graduate Research Fellowship (NSF GRFP), ~$147,000 September 2023-May 2026** 
-- **2022 Alan Berman Research Publication Award for work "SpikePropamine: Differentiable Plasticity in Spiking Neural Networks"**
-- **Best Poster Award MEGL Symposium Poster Presentation Spring 2020**
-– **Outstanding Poster Award Joint Mathematics Meeting Conference Spring 2019**
+- National Science Foundation Graduate Research Fellowship (NSF GRFP), ~$147,000 September 2023-May 2026
+- 2022 Alan Berman Research Publication Award for work "SpikePropamine: Differentiable Plasticity in Spiking Neural Networks"
+- Best Poster Award MEGL Symposium Poster Presentation Spring 2020
+– Outstanding Poster Award Joint Mathematics Meeting Conference Spring 2019
 
 ## Publications
 
