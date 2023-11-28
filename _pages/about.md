@@ -23,6 +23,10 @@ Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics D
 
 <p align="center"><img src="../images/quadruped_mov.gif" width="69%" height="70%"></p>
 
+Outside of research, I like to travel, play tennis, write, and most of all spend time with my wife.
+
+
+
 
 ## Awards
 
