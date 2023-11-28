@@ -36,39 +36,29 @@ Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics D
 ### Journal
 
 - **Schmidgall, S.**, Hays, J. (2023). 
-Meta-SpikePropamine: Learning to learn with synaptic plasticity in spiking neural networks
-Frontiers in Neuroscience.
+Meta-SpikePropamine: Learning to learn with synaptic plasticity in spiking neural networksFrontiers in Neuroscience.
 
 - Holzer, M., Richey, Z., Rush, W., **Schmidgall, S.**, (2022). 
-Locked fronts in a discrete time discrete space population model. Journal 
-of Mathematical Biology.
-
+Locked fronts in a discrete time discrete space population model. Journal of Mathematical Biology.
 
 - **Schmidgall, S.**, Ashkanazy, J., Lawson, W., Hays, J, (2021). 
-SpikePropamine: Differentiable Plasticity in Spiking Neural Networks. 
-Frontiers in Neurorobotics
+SpikePropamine: Differentiable Plasticity in Spiking Neural Networks. Frontiers in Neurorobotics
 
 ### Conference
 
+- Ziaei, R., **Schmidgall, S.**, Language models are susceptible to incorrect patient self-diagnosis in clinical applications (2023). Conference on Neural Information Processing Systems (NeurIPS 2023), Workshop on Deep Generative Models for Health.
+
+- Kim, JW., **Schmidgall, S.**, Krieger, A., Kobilarov, M., (2023). Learning a Library of Surgical Manipulation Skills for Robotic Surgery. Conference on Robotic Learning (CoRL 2023), CRL WS Workshop
+
 - **Schmidgall, S.**, Hays, J., (2023). SMA: A three-factor learning rule for synaptic motor adaptation in spiking neural networks. International Conference on Neuromorphic Systems (ICONS).
 
-- **Schmidgall, S.**, Parsa, M., Schuman, C. (2023). Biological connectomes 
-as a representation for the architecture of artificial neural networks. Proceedings of the 2023 AAAI Conference on Artificial Intelligence "Systems Neuroscience Approach to General Intelligence" Workshop.
+- **Schmidgall, S.**, Parsa, M., Schuman, C. (2023). Biological connectomes as a representation for the architecture of artificial neural networks. Proceedings of the 2023 AAAI Conference on Artificial Intelligence "Systems Neuroscience Approach to General Intelligence" Workshop.
 
-- **Schmidgall, S.**, Hays, J., (2022). Stable Lifelong Learning: 
-Spiking neurons as a solution to instability in plastic neural networks. 
-Neuro-Inspired Computational Elements (NICE). 
+- **Schmidgall, S.**, Hays, J., (2022). Stable Lifelong Learning: Spiking neurons as a solution to instability in plastic neural networks. Neuro-Inspired Computational Elements (NICE). 
 
-- Lukyanenko, A., Camphire, H., Austin, A., **Schmidgall, S.**, 
-Soudbakhsh, D., (2021). Optimal Localized Trajectory Planning of Multiple 
-Non-holonomic Vehicles. 5th Conference on Control Technology and 
-Applications (CCTA).
+- Lukyanenko, A., Camphire, H., Austin, A., **Schmidgall, S.**, Soudbakhsh, D., (2021). Optimal Localized Trajectory Planning of Multiple Non-holonomic Vehicles. 5th Conference on Control Technology and Applications (CCTA).
 
-- **Schmidgall, S.** (2021). Self-constructing Neural Networks 
-through Random Mutation. International Conference on Learning 
-Representations (ICLR).
+- **Schmidgall, S.** (2021). Self-constructing Neural Networks through Random Mutation. International Conference on Learning Representations (ICLR).
 
-- **Schmidgall, S.**, (2020). Adaptive Reinforcement Learning 
-through Evolving Self-Modifying Neural Networks. The 2020 Genetic 
-and Evolutionary Computation Conference (GECCO).
+- **Schmidgall, S.**, (2020). Adaptive Reinforcement Learning through Evolving Self-Modifying Neural Networks. The 2020 Genetic and Evolutionary Computation Conference (GECCO).
 
