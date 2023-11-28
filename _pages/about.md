@@ -12,7 +12,9 @@ redirect_from:
 
 <!--p align="center"><img src="../images/robots.png" width="95%" height="95%"></p-->
 
-I am a **1st year PhD student @ Johns Hopkins University** in Electrical and Computer Engineering. I am a [National Science Foundation GRFP fellow](https://www.nsfgrfp.org/) working in the [Artificial Intelligence for Engineering and Medicine Lab (AIEM)](https://aiem.jhu.edu/) with Dr. Rama Chellappa. I also work with Dr. Axel Krieger at the [Intelligent Medical Robotic Systems and Equipment Lab (IMMERSE)](https://imerse.lcsr.jhu.edu/) toward building more autonomous surgical robotic systems via deep reinforcement learning.
+Hello there, and welcome to my website! My name is Samuel Schmidgall and I'm a researcher and engineer focused on applying AI to the field of medicine and medical robotics.
+
+I am currently a **1st year PhD student @ Johns Hopkins University** in Electrical and Computer Engineering. I'm jointly advised by Rama Chellappa and Axel Krieger in the [Artificial Intelligence for Engineering and Medicine Lab (AIEM)](https://aiem.jhu.edu/) and the [Intelligent Medical Robotic Systems and Equipment Lab (IMMERSE)](https://imerse.lcsr.jhu.edu/) toward building autonomous surgical robotic systems. I'm very grateful to have received support from the [NSF Graduate Research fellowship](https://www.nsfgrfp.org/).
 
 <p align="center"><img src="../images/StarRobots.gif" width="65%" height="65%"></p>
 
