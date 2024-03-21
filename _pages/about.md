@@ -23,7 +23,7 @@ Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics D
 
 <p align="center"><img src="../images/quadruped_mov.gif" width="69%" height="70%"></p>
 
-Outside of research, I like to travel, play tennis, write, and most of all spend time with my wife.
+Outside of research, I like to travel, play tennis, write, and most of all spend time with my wife ❤️
 
 
 
@@ -39,8 +39,12 @@ Outside of research, I like to travel, play tennis, write, and most of all spend
 
 ### Journal
 
+- **Schmidgall, S.**, Kim, JW., Krieger, A. (2024). Can robots imitate surgeon demonstrations? Nature Reviews Urology.
+
+- **Schmidgall, S.**, Ziaei, R., Jascha, A., Louis, K., Hajiseyedrazi, T., Eshraghian, J., (2024). Brain-inspired learning in artificial neural networks. Applied Physics Letters Machine Learning.
+
 - **Schmidgall, S.**, Hays, J. (2023). 
-Meta-SpikePropamine: Learning to learn with synaptic plasticity in spiking neural networksFrontiers in Neuroscience.
+Meta-SpikePropamine: Learning to learn with synaptic plasticity in spiking neural networks. Frontiers in Neuroscience.
 
 - Holzer, M., Richey, Z., Rush, W., **Schmidgall, S.**, (2022). 
 Locked fronts in a discrete time discrete space population model. Journal of Mathematical Biology.
@@ -49,6 +53,8 @@ Locked fronts in a discrete time discrete space population model. Journal of Mat
 SpikePropamine: Differentiable Plasticity in Spiking Neural Networks. Frontiers in Neurorobotics
 
 ### Conference
+
+- **Schmidgall, S.**, Krieger, A., Eshraghian, J. (2024). Surgical Gym: A high-performance GPU-based platform for reinforcement learning with surgical robots. International Conference on Robotics and Automation (ICRA 2024).
 
 - Ziaei, R., **Schmidgall, S.**, Language models are susceptible to incorrect patient self-diagnosis in clinical applications (2023). Conference on Neural Information Processing Systems (NeurIPS 2023), Workshop on Deep Generative Models for Health.
 
