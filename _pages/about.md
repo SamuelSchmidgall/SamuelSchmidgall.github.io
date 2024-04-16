@@ -26,7 +26,7 @@ Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics D
 
 <p align="center"><img src="../images/AgentMedicalLLMBG.png" width="95%" height="95%"></p>
 
-Outside of research, I like to travel, play tennis, write, and most of all spend time with my wife ❤️
+Outside of research, I like to travel, play tennis, write, and most of all spend time with my wonderful wife ❤️
 
 
 ## Awards
