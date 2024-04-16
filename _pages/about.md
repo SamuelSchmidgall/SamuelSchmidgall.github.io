@@ -19,8 +19,7 @@ I am currently a **1st year PhD student @ Johns Hopkins University** in Electric
 I'm currently doing an internship (April - July) at [Stanford University School of Medicine](https://med.stanford.edu/) with [Hiesinger Lab](https://www.hiesingerlab.com/). If you're in the bay area and want to talk about anything research related let me know!
 
 
-
-<p align="center"><img src="../images/StarRobots.gif" width="65%" height="65%"></p>
+<p align="center"><img src="../images/knottie.gif" width="65%" height="65%"></p>
 
 Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics Department at the [US NRL](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Spacecraft-Engineering/). My past research focused on machine learning approaches for **robotic learning** with legged and articulated robotic systems. I was also working toward studying intelligence in brain organoids in the [Center for Alternatives in Animal Testing (CAAT)](https://caat.jhsph.edu/) at the Johns Hopkins University School of Public Health. I was also a research affiliate at the University of California, Santa Cruz [Neuromorphic Computing Laboratory](https://ncg.ucsc.edu/) working on reinforcement learning for surgical robotics. I recieved my B.S. in Computer Science at George Mason University in 2021. During my time as an undergraduate, I worked on a variety of projects in mathematics, robotics, computational neuroscience, and artificial intelligence. These topics include: [multi-agent motion planning](https://ieeexplore.ieee.org/abstract/document/9658995), [wave propagation dynamics](https://link.springer.com/article/10.1007/s00285-022-01802-7), [meta-](https://www.frontiersin.org/articles/10.3389/fnbot.2021.629210/full), and [continual learning via synaptic plasticity](https://www.biorxiv.org/content/biorxiv/early/2022/06/28/2022.06.24.497562.full.pdf). For more information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
 
@@ -30,14 +29,15 @@ Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics D
 Outside of research, I like to travel, play tennis, write, and most of all spend time with my wife ❤️
 
 
-
-
 ## Awards
 
 - National Science Foundation Graduate Research Fellowship (NSF GRFP), ~$147,000 September 2023-May 2026
 - 2022 Alan Berman Research Publication Award for work "SpikePropamine: Differentiable Plasticity in Spiking Neural Networks"
 - Best Poster Award MEGL Symposium Poster Presentation Spring 2020
 – Outstanding Poster Award Joint Mathematics Meeting Conference Spring 2019
+
+
+<p align="center"><img src="../images/StarRobots.gif" width="65%" height="65%"></p>
 
 ## Publications
 
