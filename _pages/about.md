@@ -77,4 +77,8 @@ SpikePropamine: Differentiable Plasticity in Spiking Neural Networks. Frontiers 
 - **Schmidgall, S.**, (2020). Adaptive Reinforcement Learning through Evolving Self-Modifying Neural Networks. The 2020 Genetic and Evolutionary Computation Conference (GECCO).
 
 
+### Textbook
+
+- Opferman, J., **Schmidgall, S.**, Krieger, A., (2024). State-of-the-Art and Future of Autonomous Robotic Surgery. AI & Urology
+
 <p align="center"><img src="../images/quadruped_mov.gif" width="69%" height="70%"></p>
