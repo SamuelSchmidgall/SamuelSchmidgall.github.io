@@ -12,28 +12,21 @@ redirect_from:
 
 <!--p align="center"><img src="../images/robots.png" width="95%" height="95%"></p-->
 
-Hello there, and welcome to my website! My name is Samuel Schmidgall and I'm a researcher and engineer focused on applying AI to the field of medicine and medical robotics.
+Hello there, and welcome to my website! My name is Samuel Schmidgall and I'm a researcher & engineer focused on applying AI to the field of medicine and medical robotics.
 
-I am currently a **1st year PhD student @ Johns Hopkins University** in Electrical and Computer Engineering. I'm jointly advised by Rama Chellappa and Axel Krieger in the [Artificial Intelligence for Engineering and Medicine Lab (AIEM)](https://aiem.jhu.edu/) and the [Intelligent Medical Robotic Systems and Equipment Lab (IMERSE)](https://imerse.lcsr.jhu.edu/) toward building autonomous surgical robots and medical language models. I'm very grateful to have received support from the [NSF Graduate Research fellowship](https://www.nsfgrfp.org/).
+I am currently a **2nd year PhD student @ Johns Hopkins University** in Electrical and Computer Engineering. I'm jointly advised by Rama Chellappa and Axel Krieger in the [Artificial Intelligence for Engineering and Medicine Lab (AIEM)](https://aiem.jhu.edu/) and the [Intelligent Medical Robotic Systems and Equipment Lab (IMERSE)](https://imerse.lcsr.jhu.edu/) toward building autonomous surgical robots and medical language models. I'm very grateful to have received support from the [NSF Graduate Research fellowship](https://www.nsfgrfp.org/).
 
 Prev internships:
-- Summer 2024, [Stanford University](https://med.stanford.edu/)
+- [Stanford University](https://med.stanford.edu/) (Summer 2024)
+
+Awards:
+- [NSF GRFP](https://www.nsfgrfp.org/) (PhD fellowship), (2023 - 2026)
 
 
 <p align="center"><img src="../images/knottie.gif" width="95%" height="95%"></p>
 
 Outside of research, I like to travel, play tennis, write, and most of all spend time with my wonderful wife ❤️
 
-
-## Awards
-
-- National Science Foundation Graduate Research Fellowship (NSF GRFP), ~$147,000 September 2023-May 2026
-- 2022 Alan Berman Research Publication Award for work "SpikePropamine: Differentiable Plasticity in Spiking Neural Networks"
-- Best Poster Award MEGL Symposium Poster Presentation Spring 2020
-– Outstanding Poster Award Joint Mathematics Meeting Conference Spring 2019
-
-
-<p align="center"><img src="../images/StarRobots.gif" width="65%" height="65%"></p>
 
 
 ## Software
