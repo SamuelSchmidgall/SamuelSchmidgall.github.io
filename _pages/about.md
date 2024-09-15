@@ -21,11 +21,6 @@ I'm currently doing an internship (April - July) at [Stanford University School 
 
 <p align="center"><img src="../images/knottie.gif" width="95%" height="95%"></p>
 
-Prior to starting my PhD, I was a **Research Scientist** in the Space Robotics Department at the [US NRL](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Spacecraft-Engineering/). My past research focused on machine learning approaches for **robotic learning** with legged and articulated robotic systems. I was also working toward studying intelligence in brain organoids in the [Center for Alternatives in Animal Testing (CAAT)](https://caat.jhsph.edu/) at the Johns Hopkins University School of Public Health. I was also a research affiliate at the University of California, Santa Cruz [Neuromorphic Computing Laboratory](https://ncg.ucsc.edu/) working on reinforcement learning for surgical robotics. I recieved my B.S. in Computer Science at George Mason University in 2021. During my time as an undergraduate, I worked on a variety of projects in mathematics, robotics, computational neuroscience, and artificial intelligence. These topics include: [multi-agent motion planning](https://ieeexplore.ieee.org/abstract/document/9658995), [wave propagation dynamics](https://link.springer.com/article/10.1007/s00285-022-01802-7), [meta-](https://www.frontiersin.org/articles/10.3389/fnbot.2021.629210/full), and [continual learning via synaptic plasticity](https://www.biorxiv.org/content/biorxiv/early/2022/06/28/2022.06.24.497562.full.pdf). For more information see my [CV](https://github.com/SamuelSchmidgall/SamuelSchmidgall.github.io/blob/master/_data/SchmidgallCV.pdf).
-
-
-<p align="center"><img src="../images/AgentMedicalLLMBG.png" width="55%" height="55%"></p>
-
 Outside of research, I like to travel, play tennis, write, and most of all spend time with my wonderful wife ❤️
 
 
