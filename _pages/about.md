@@ -37,7 +37,11 @@ AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical e
 
 ### Journal
 
+- **Schmidgall, S.**, Kim, JW., Ghazi, AE., Krieger, A., (2024). Generalist models for increased autonomy in robot-assisted surgery. Nature Machine Intelligence. *(to appear)*
+
 - **Schmidgall, S.**, Kim, JW., Krieger, A. (2024). Can robots imitate surgeon demonstrations? Nature Reviews Urology.
+
+- Luppi, A., Achterberg, J., **Schmidgall, S**., Bilgin IP., Herholz, P., Sprang, M., Fockter, B., Ham, AS., Thorat, S., Ziaei, R., Milisav, F., Proca, AM., Tolle, HM., Suarez, L., Scotti, P., Gellersen, H., (2024). Training the next generation of NeuroAI researchers: Trainees’ perspectives. Nature Communications. *(to appear)*
 
 - **Schmidgall, S.**, Ziaei, R., Jascha, A., Louis, K., Hajiseyedrazi, T., Eshraghian, J., (2024). Brain-inspired learning in artificial neural networks. Applied Physics Letters Machine Learning.
 
@@ -52,7 +56,11 @@ SpikePropamine: Differentiable Plasticity in Spiking Neural Networks. Frontiers 
 
 ### Conference
 
+- Kim, JW., Zhao T., **Schmidgall, S.**, Finn, C., Krieger, A., (2024) Surgical Robot Transformer: Learning Autonomous Surgical Subtasks. Conference on Robot Learning (CoRL).
+
 - **Schmidgall, S.**, Krieger, A., Eshraghian, J. (2024). Surgical Gym: A high-performance GPU-based platform for reinforcement learning with surgical robots. International Conference on Robotics and Automation (ICRA 2024).
+
+- Liu, J., Henrich, P., Ge, J., Shepard, L., **Schmidgall, S.**, Ghazi, A., Mathis-Ullrich, F., Krieger, A. (2024) Tracking Tumors under Deformation from Partial Point Clouds using Occupancy Networks. International Conference on Intelligent Robots and Systems (IROS).
 
 - Ziaei, R., **Schmidgall, S.**, Language models are susceptible to incorrect patient self-diagnosis in clinical applications (2023). Conference on Neural Information Processing Systems (NeurIPS 2023), Workshop on Deep Generative Models for Health.
 
