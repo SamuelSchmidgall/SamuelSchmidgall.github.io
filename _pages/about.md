@@ -16,8 +16,9 @@ Hello there, and welcome to my website! My name is Samuel Schmidgall and I'm a r
 
 I am currently a **2nd year PhD student @ Johns Hopkins University** in Electrical and Computer Engineering. I'm jointly advised by Rama Chellappa and Axel Krieger in the [Artificial Intelligence for Engineering and Medicine Lab (AIEM)](https://aiem.jhu.edu/) and the [Intelligent Medical Robotic Systems and Equipment Lab (IMERSE)](https://imerse.lcsr.jhu.edu/) toward building autonomous surgical robots and medical language models. I'm very grateful to have received support from the [NSF Graduate Research fellowship](https://www.nsfgrfp.org/).
 
-Prev internships:
-- [Stanford University](https://med.stanford.edu/) (Summer 2024)
+Internships:
+- [AMD](https://www.amd.com/en.html) (Sept 2024 - *Present*)
+- [Stanford University](https://med.stanford.edu/) (Apr 2024 - Aug 2024)
 
 Awards:
 - [NSF GRFP](https://www.nsfgrfp.org/) (PhD fellowship), (2023 - 2026)
