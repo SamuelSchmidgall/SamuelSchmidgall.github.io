@@ -99,6 +99,45 @@
 
 
             <tr>
+              <tr onmouseout="gp_stop()" onmouseover="gp_start()"  bgcolor="#ffffd0">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='gp_image'><video  width=100% height=100% muted autoplay loop>
+                    <source src="images/rtras.png" type="video/mp4">
+                    Your browser does not support the video tag.
+                    </video></div>
+                    <img src='images/rtras.png' width="180">
+                  </div>
+                  <script type="text/javascript">
+                    function gp_start() {
+                      document.getElementById('gp_image').style.opacity = "1";
+                    }
+  
+                    function gp_stop() {
+                      document.getElementById('gp_image').style.opacity = "0";
+                    }
+                    gp_stop()
+                  </script>
+                </td>
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://arxiv.org/pdf/2401.00678">
+                  <span class="papertitle">General-purpose foundation models for increased autonomy in robot-assisted surgery</span>
+                </a>
+                <br>
+                <strong>Samuel Schmidgall</strong>, <a href="https://sites.google.com/view/jkimrobot/home">Ji Woong Kim</a>, <a href="https://users.cs.utah.edu/~adk/">Alan Kuntz</a>, <a href="https://profiles.hopkinsmedicine.org/provider/ahmed-e-ghazi/2705724">Ahmed Ezzat Ghazi</a>, <a href="https://imerse.lcsr.jhu.edu/#professor">Axel Krieger</a>
+                <br>
+                <em>Nature Machine Intelligence</em>, 2024
+                <br>
+                <a href="data/SOMETHING.bib">bibtex</a>
+                <p></p>
+                <p>This perspective aims to provide a path toward increasing robot autonomy in robot-assisted surgery through the development of a multi-modal, multi-task, vision-language-action model for surgical robots.</p>
+              </td>
+            </tr>
+
+
+
+
+            <tr>
               <td style="padding:20px;width:25%;vertical-align:middle">
                 <img src='images/surgenimg.png' width="180">
               </td>
@@ -116,48 +155,6 @@
                 <p>This paper introduces SurGen, a text-guided diffusion model tailored for surgical video synthesis, producing the highest resolution and longest duration videos among existing surgical video generation models.</p>
               </td>
             </tr>
-
-
-
-            <tr>
-              <td style="padding:20px;width:25%;vertical-align:middle">
-                <img src='images/gpvls.png' width="180">
-              </td>
-              <td style="padding:20px;width:75%;vertical-align:middle">
-                <a href="https://arxiv.org/pdf/2407.19305">
-                  <span class="papertitle">GP-VLS: A general-purpose vision language model for surgery</span>
-                </a>
-                <br>
-                <strong>Samuel Schmidgall*</strong>, <a href="https://x.com/joseph_cho1">Joseph Cho</a>*, <a href="https://cyrilzakka.github.io/">Cyril Zakka</a>, <a href="https://stanfordhealthcare.org/doctors/h/william-hiesinger.html">William Hiesinger</a>
-                <br>
-                <em>arXiv preprint arXiv:2407.19305</em>, 2024
-                <br>
-                <a href="data/SOMETHING.bib">bibtex</a>
-                <p></p>
-                <p>This paper introduces GP-VLS, a general-purpose vision language model for surgery that integrates medical and surgical knowledge with visual scene understanding.</p>
-              </td>
-            </tr>
-
-
-            <tr>
-              <td style="padding:20px;width:25%;vertical-align:middle">
-                <img src='images/ltdltp.png' width="180">
-              </td>
-              <td style="padding:20px;width:75%;vertical-align:middle">
-                <a href="https://pubs.aip.org/aip/aml/article/2/2/021501/3291446">
-                  <span class="papertitle">Brain-inspired learning in artificial neural networks: a review</span>
-                </a>
-                <br>
-                <strong>Samuel Schmidgall</strong>, <a href="https://scholar.google.com/citations?user=hhXu6jkAAAAJ&hl=en">Rojin Ziaei</a>, <a href="https://www.jachterberg.com/">Jascha Achterberg</a>, <a href="https://louiskirsch.com/">Louis Kirsch</a>, <a href="https://scholar.google.com/citations?user=cznfeyoAAAAJ&hl=en">Pardis Hajiseyedrazi</a>, <a href="https://ncg.ucsc.edu/jason-eshraghian-bio/">Jason Eshraghian</a>
-                <br>
-                <em>APL Machine Learning</em>, 2024
-                <br>
-                <a href="data/SOMETHING.bib">bibtex</a>
-                <p></p>
-                <p>Comprehensive review of current brain-inspired learning representations in artificial neural networks.</p>
-              </td>
-            </tr>
-
 
 
 
@@ -199,6 +196,88 @@
             </tr>
 
             
+
+
+            <tr>
+              <td style="padding:20px;width:25%;vertical-align:middle">
+                <img src='images/gpvls.png' width="180">
+              </td>
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://arxiv.org/pdf/2407.19305">
+                  <span class="papertitle">GP-VLS: A general-purpose vision language model for surgery</span>
+                </a>
+                <br>
+                <strong>Samuel Schmidgall*</strong>, <a href="https://x.com/joseph_cho1">Joseph Cho</a>*, <a href="https://cyrilzakka.github.io/">Cyril Zakka</a>, <a href="https://stanfordhealthcare.org/doctors/h/william-hiesinger.html">William Hiesinger</a>
+                <br>
+                <em>arXiv preprint arXiv:2407.19305</em>, 2024
+                <br>
+                <a href="data/SOMETHING.bib">bibtex</a>
+                <p></p>
+                <p>This paper introduces GP-VLS, a general-purpose vision language model for surgery that integrates medical and surgical knowledge with visual scene understanding.</p>
+              </td>
+            </tr>
+
+
+
+            <tr>
+              <tr onmouseout="mit_stop()" onmouseover="mit_start()"  bgcolor="#ffffd0">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='mit_image'><video  width=100% height=100% muted autoplay loop>
+                    <source src="images/addressing_bias.png" type="video/mp4">
+                    Your browser does not support the video tag.
+                    </video></div>
+                    <img src='images/addressing_bias.png' width="180">
+                  </div>
+                  <script type="text/javascript">
+                    function mit_start() {
+                      document.getElementById('mit_image').style.opacity = "1";
+                    }
+  
+                    function mit_stop() {
+                      document.getElementById('mit_image').style.opacity = "0";
+                    }
+                    mit_stop()
+                  </script>
+                </td>
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://arxiv.org/pdf/2402.08113">
+                  <span class="papertitle">Addressing and mitigating cognitive bias in medical language models.</span>
+                </a>
+                <br>
+                <strong>Samuel Schmidgall</strong>,  <a href="https://carlwharris.github.io/">Carl Harris</a>, <a href="https://scholar.google.com/citations?user=UlMP0GEAAAAJ&hl=en">Ime Essien</a>, <a href="https://scholar.google.com/citations?user=YAAp0eMAAAAJ&hl=en">Daniel Olshvang</a>, <a href="https://sites.google.com/view/tawsifurrahman">Tawsifur Rahman</a>, <a href="https://sites.google.com/view/jkimrobot/home">Ji Woong Kim</a>, <a href="https://scholar.google.com/citations?user=hhXu6jkAAAAJ&hl=en">Rojin Ziaei</a>, <a href="https://ncg.ucsc.edu/jason-eshraghian-bio/">Jason Eshraghian</a>, <a href="https://abadirlab.org/dr-peter-abadir/">Peter Abadir</a>, <a href="https://scholar.google.com/citations?user=L60tuywAAAAJ&hl=en">Rama Chellappa</a>
+                <br>
+                <em>NPJ Digital Medicine</em>, 2024
+                <br>
+                <a href="data/SOMETHING.bib">bibtex</a>
+                <p></p>
+                <p>The addition of simple cognitive bias prompts significantly degrades performance. We introduce BiasMedQA to evaluate bias robustness on medical QA problems, and demonstrate mitigation techniques.</p>
+              </td>
+            </tr>
+
+
+
+            <tr>
+              <td style="padding:20px;width:25%;vertical-align:middle">
+                <img src='images/ltdltp.png' width="180">
+              </td>
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://pubs.aip.org/aip/aml/article/2/2/021501/3291446">
+                  <span class="papertitle">Brain-inspired learning in artificial neural networks: a review</span>
+                </a>
+                <br>
+                <strong>Samuel Schmidgall</strong>, <a href="https://scholar.google.com/citations?user=hhXu6jkAAAAJ&hl=en">Rojin Ziaei</a>, <a href="https://www.jachterberg.com/">Jascha Achterberg</a>, <a href="https://louiskirsch.com/">Louis Kirsch</a>, <a href="https://scholar.google.com/citations?user=cznfeyoAAAAJ&hl=en">Pardis Hajiseyedrazi</a>, <a href="https://ncg.ucsc.edu/jason-eshraghian-bio/">Jason Eshraghian</a>
+                <br>
+                <em>APL Machine Learning</em>, 2024
+                <br>
+                <a href="data/SOMETHING.bib">bibtex</a>
+                <p></p>
+                <p>Comprehensive review of current brain-inspired learning representations in artificial neural networks.</p>
+              </td>
+            </tr>
+
+
+
 
 
             <tr>
@@ -246,43 +325,6 @@
 
 
             <tr>
-              <tr onmouseout="mit_stop()" onmouseover="mit_start()"  bgcolor="#ffffd0">
-                <td style="padding:20px;width:25%;vertical-align:middle">
-                  <div class="one">
-                    <div class="two" id='mit_image'><video  width=100% height=100% muted autoplay loop>
-                    <source src="images/addressing_bias.png" type="video/mp4">
-                    Your browser does not support the video tag.
-                    </video></div>
-                    <img src='images/addressing_bias.png' width="180">
-                  </div>
-                  <script type="text/javascript">
-                    function mit_start() {
-                      document.getElementById('mit_image').style.opacity = "1";
-                    }
-  
-                    function mit_stop() {
-                      document.getElementById('mit_image').style.opacity = "0";
-                    }
-                    mit_stop()
-                  </script>
-                </td>
-              <td style="padding:20px;width:75%;vertical-align:middle">
-                <a href="https://arxiv.org/pdf/2402.08113">
-                  <span class="papertitle">Addressing and mitigating cognitive bias in medical language models.</span>
-                </a>
-                <br>
-                <strong>Samuel Schmidgall</strong>,  <a href="https://carlwharris.github.io/">Carl Harris</a>, <a href="https://scholar.google.com/citations?user=UlMP0GEAAAAJ&hl=en">Ime Essien</a>, <a href="https://scholar.google.com/citations?user=YAAp0eMAAAAJ&hl=en">Daniel Olshvang</a>, <a href="https://sites.google.com/view/tawsifurrahman">Tawsifur Rahman</a>, <a href="https://sites.google.com/view/jkimrobot/home">Ji Woong Kim</a>, <a href="https://scholar.google.com/citations?user=hhXu6jkAAAAJ&hl=en">Rojin Ziaei</a>, <a href="https://ncg.ucsc.edu/jason-eshraghian-bio/">Jason Eshraghian</a>, <a href="https://abadirlab.org/dr-peter-abadir/">Peter Abadir</a>, <a href="https://scholar.google.com/citations?user=L60tuywAAAAJ&hl=en">Rama Chellappa</a>
-                <br>
-                <em>NPJ Digital Medicine</em>, 2024
-                <br>
-                <a href="data/SOMETHING.bib">bibtex</a>
-                <p></p>
-                <p>The addition of simple cognitive bias prompts significantly degrades performance. We introduce BiasMedQA to evaluate bias robustness on medical QA problems, and demonstrate mitigation techniques.</p>
-              </td>
-            </tr>
-
-
-            <tr>
               <td style="padding:20px;width:25%;vertical-align:middle">
                 <img src='images/starrobot.gif' width="180">
               </td>
@@ -300,43 +342,6 @@
                 <p>Surgical Gym is an open-source high performance platform for surgical robot learning where both the physics simulation and reinforcement learning occur directly on the GPU.</p>
               </td>
             </tr>
-
-            <tr>
-              <tr onmouseout="gp_stop()" onmouseover="gp_start()"  bgcolor="#ffffd0">
-                <td style="padding:20px;width:25%;vertical-align:middle">
-                  <div class="one">
-                    <div class="two" id='gp_image'><video  width=100% height=100% muted autoplay loop>
-                    <source src="images/rtras.png" type="video/mp4">
-                    Your browser does not support the video tag.
-                    </video></div>
-                    <img src='images/rtras.png' width="180">
-                  </div>
-                  <script type="text/javascript">
-                    function gp_start() {
-                      document.getElementById('gp_image').style.opacity = "1";
-                    }
-  
-                    function gp_stop() {
-                      document.getElementById('gp_image').style.opacity = "0";
-                    }
-                    gp_stop()
-                  </script>
-                </td>
-              <td style="padding:20px;width:75%;vertical-align:middle">
-                <a href="https://arxiv.org/pdf/2401.00678">
-                  <span class="papertitle">General-purpose foundation models for increased autonomy in robot-assisted surgery</span>
-                </a>
-                <br>
-                <strong>Samuel Schmidgall</strong>, <a href="https://sites.google.com/view/jkimrobot/home">Ji Woong Kim</a>, <a href="https://users.cs.utah.edu/~adk/">Alan Kuntz</a>, <a href="https://profiles.hopkinsmedicine.org/provider/ahmed-e-ghazi/2705724">Ahmed Ezzat Ghazi</a>, <a href="https://imerse.lcsr.jhu.edu/#professor">Axel Krieger</a>
-                <br>
-                <em>Nature Machine Intelligence</em>, 2024
-                <br>
-                <a href="data/SOMETHING.bib">bibtex</a>
-                <p></p>
-                <p>This perspective aims to provide a path toward increasing robot autonomy in robot-assisted surgery through the development of a multi-modal, multi-task, vision-language-action model for surgical robots.</p>
-              </td>
-            </tr>
-
 
 
 
